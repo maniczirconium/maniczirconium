@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 - [Building the New Antares Programming Website](https://antaresprogramming.github.io/blog/building-the-new-antares-programming-website/)
 <!-- BLOG-POST-LIST:END -->
 
+[![Francis' github stats](https://github-readme-stats.vercel.app/api?username=maniczirconium)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: https://antaresprogramming.github.io/
 [course]: https://antaresprogramming.github.io/courses/
