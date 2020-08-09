@@ -42,7 +42,14 @@ Here are some ideas to get you started:
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [&ldquo;Walang Disabled na Gagamit ng Website ko&rdquo;](https://antaresprogramming.github.io/blog/blog-walang-disabled-na-gagamit-ng-website-ko/)
+- [Design Decisions sa Bagong Web Site&mdash;Part&nbsp;1](https://antaresprogramming.github.io/blog/design-decisions-part-1/)
+- [Using Linear Gradients to Create Stripes](https://antaresprogramming.github.io/blog/using-linear-gradients-to-create-stripes/)
+- [Creating Links to Up One Directory](https://antaresprogramming.github.io/blog/creating-links-to-up-one-directory/)
+- [Building the New Antares Programming Website](https://antaresprogramming.github.io/blog/building-the-new-antares-programming-website/)
 <!-- BLOG-POST-LIST:END -->
+
+[![Francis' github stats](https://github-readme-stats.vercel.app/api?username=maniczirconium)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://antaresprogramming.github.io/
