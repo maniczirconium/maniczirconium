@@ -1,4 +1,4 @@
-### Hi there 👋, it's me, Francis, creator of [Antares Programming][website]
+## Hi there 👋, it's me, Francis, creator of [Antares Programming][website]
 
 I am a Web designer and developer, writer, and educator.
 
@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a huge Lady Gaga stan. I'm a Little Monster. Paws up!
 -->
 
-#### Connect with me
+### Connect with me
 [<img align="left" alt="antaresprogramming.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Antares Programming | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Francis Rubio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Francis Rubio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-#### Languages and Tools:
+<br><br>
+
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
