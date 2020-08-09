@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+- [&ldquo;Walang Disabled na Gagamit ng Website ko&rdquo;](https://antaresprogramming.github.io/blog/blog-walang-disabled-na-gagamit-ng-website-ko/)
+- [Design Decisions sa Bagong Web Site&mdash;Part&nbsp;1](https://antaresprogramming.github.io/blog/design-decisions-part-1/)
+- [Using Linear Gradients to Create Stripes](https://antaresprogramming.github.io/blog/using-linear-gradients-to-create-stripes/)
+- [Creating Links to Up One Directory](https://antaresprogramming.github.io/blog/creating-links-to-up-one-directory/)
+- [Building the New Antares Programming Website](https://antaresprogramming.github.io/blog/building-the-new-antares-programming-website/)
 <!-- BLOG-POST-LIST:END -->
 
 
