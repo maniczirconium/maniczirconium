@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br><br>
 
 [![Francis' github stats](https://github-readme-stats.vercel.app/api?username=maniczirconium&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniczirconium&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniczirconium&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
