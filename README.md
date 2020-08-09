@@ -40,6 +40,11 @@ Here are some ideas to get you started:
 
 <br><br>
 
+[![Francis' github stats](https://github-readme-stats.vercel.app/api?username=maniczirconium&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniczirconium&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br>
+
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [&ldquo;Walang Disabled na Gagamit ng Website ko&rdquo;](https://antaresprogramming.github.io/blog/blog-walang-disabled-na-gagamit-ng-website-ko/)
@@ -49,7 +54,6 @@ Here are some ideas to get you started:
 - [Building the New Antares Programming Website](https://antaresprogramming.github.io/blog/building-the-new-antares-programming-website/)
 <!-- BLOG-POST-LIST:END -->
 
-[![Francis' github stats](https://github-readme-stats.vercel.app/api?username=maniczirconium)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://antaresprogramming.github.io/
