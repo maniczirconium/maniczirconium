@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Kailangan ang tulong mo](https://antaresprogramming.github.io/blog/kailangan-ang-tulong-mo/)
-- [Ang <code>display</code> Property ng CSS](https://antaresprogramming.github.io/blog/ang-display-property-ng-css/)
+- [Ang display Property ng CSS](https://antaresprogramming.github.io/blog/ang-display-property-ng-css/)
 - [&ldquo;Walang Disabled na Gagamit ng Website ko&rdquo;](https://antaresprogramming.github.io/blog/walang-disabled-na-gagamit-ng-website-ko/)
 - [Using Linear Gradients to Create Stripes](https://antaresprogramming.github.io/blog/using-linear-gradients-to-create-stripes/)
 - [Creating Links to Up One Directory](https://antaresprogramming.github.io/blog/creating-links-to-up-one-directory/)
