@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Subgrid](https://maniczirconium.github.io/blog/css-subgrid/)
+- [On being a teacher in the Philippines](https://maniczirconium.github.io/blog/on-being-a-teacher-in-the-philippines/)
 - [Announcing &ldquo;Courses by Antares Programming&rdquo;](https://antaresprogramming.github.io/blog/announcing-courses-by-antares-programming/)
 - [Kailangan ang tulong mo](https://antaresprogramming.github.io/blog/kailangan-ang-tulong-mo/)
 - [Ang display Property ng CSS](https://antaresprogramming.github.io/blog/ang-display-property-ng-css/)
-- [&ldquo;Walang Disabled na Gagamit ng Website ko&rdquo;](https://antaresprogramming.github.io/blog/walang-disabled-na-gagamit-ng-website-ko/)
-- [Using Linear Gradients to Create Stripes](https://antaresprogramming.github.io/blog/using-linear-gradients-to-create-stripes/)
 <!-- BLOG-POST-LIST:END -->
 
 
