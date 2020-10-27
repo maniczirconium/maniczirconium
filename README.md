@@ -7,7 +7,7 @@ I am a Web designer and developer, writer, and educator.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Web development courses in Tagalog][course]
+- 🔭 I’m currently working on [Web development courses in Filipino][course]
 - 🌱 I’m currently learning everything (because that't what we gotta do)
 - 👯 I’m looking to collaborate on wth other Filipino content creators
 - 💬 Ask me about everything, I'll try to answer it.
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://antaresprogramming.github.io/
+[website]: https://maniczirconium.github.io/
 [course]: https://antaresprogramming.github.io/courses/
 [youtube]: https://www.youtube.com/channel/UCO1MsyeMTHRPk3KoHgW8csw
 [twitter]: https://twitter.com/teacherbuknoy
