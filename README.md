@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Income versus Outcome](https://maniczirconium.github.io/blog/income-versus-outcome/)
 - [The Sine](https://maniczirconium.github.io/blog/the-sine/)
 - [CSS Subgrid](https://maniczirconium.github.io/blog/css-subgrid/)
 - [On being a teacher in the Philippines](https://maniczirconium.github.io/blog/on-being-a-teacher-in-the-philippines/)
 - [Announcing &ldquo;Courses by Antares Programming&rdquo;](https://antaresprogramming.github.io/blog/announcing-courses-by-antares-programming/)
-- [Kailangan ang tulong mo](https://antaresprogramming.github.io/blog/kailangan-ang-tulong-mo/)
 <!-- BLOG-POST-LIST:END -->
 
 
