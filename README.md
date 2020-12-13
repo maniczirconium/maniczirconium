@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Custom scrollbars gamit ang CSS](https://antaresprogramming.github.io/blog/css-custom-scrollbars/)
-- [Announcing &ldquo;Courses by Antares Programming&rdquo;](https://antaresprogramming.github.io/blog/announcing-courses-by-antares-programming/)
-- [Kailangan ang tulong mo](https://antaresprogramming.github.io/blog/kailangan-ang-tulong-mo/)
-- [Ang display Property ng CSS](https://antaresprogramming.github.io/blog/ang-display-property-ng-css/)
-- [&ldquo;Walang Disabled na Gagamit ng Website ko&rdquo;](https://antaresprogramming.github.io/blog/walang-disabled-na-gagamit-ng-website-ko/)
+- [Income versus Outcome](https://maniczirconium.github.io/blog/income-versus-outcome/)
+- [The Sine](https://maniczirconium.github.io/blog/the-sine/)
+- [CSS Subgrid](https://maniczirconium.github.io/blog/css-subgrid/)
+- [On being a teacher in the Philippines](https://maniczirconium.github.io/blog/on-being-a-teacher-in-the-philippines/)
 <!-- BLOG-POST-LIST:END -->
 
 
