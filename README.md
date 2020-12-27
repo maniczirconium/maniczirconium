@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Single by choice](https://maniczirconium.github.io/blog/single-by-choice/)
 - [Custom scrollbars gamit ang CSS](https://antaresprogramming.github.io/blog/css-custom-scrollbars/)
 - [Income versus Outcome](https://maniczirconium.github.io/blog/income-versus-outcome/)
 - [The Sine](https://maniczirconium.github.io/blog/the-sine/)
 - [CSS Subgrid](https://maniczirconium.github.io/blog/css-subgrid/)
-- [On being a teacher in the Philippines](https://maniczirconium.github.io/blog/on-being-a-teacher-in-the-philippines/)
 <!-- BLOG-POST-LIST:END -->
 
 
