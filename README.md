@@ -2,25 +2,18 @@
 
 I am a Web designer and developer, writer, and educator.
 
-<!--
-**maniczirconium/maniczirconium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [Web development courses in Filipino][course]
-- 🌱 I’m currently learning everything (because that't what we gotta do)
 - 👯 I’m looking to collaborate on wth other Filipino content creators
-- 💬 Ask me about everything, I'll try to answer it.
-- 🥅 2020 Goals: more code, more content, and YouTube videos
+- 🥅 2021 Goals: more code, more content, and YouTube videos
 - 😄 Pronouns: he, him, his
-- ⚡ Fun fact: I'm a huge Lady Gaga stan. I'm a Little Monster. Paws up!
--->
+- 🔭 I’m currently working on [Antares Programming](https://antaresprogramming.github.io/) 
+- 🌱 I’m currently learning Svelte and Vue.JS 
+- 📫 How to reach me: email at [devFrancisRubio@gmail.com](devFrancisRubio@gmail.com) 
+- 😄 Pronouns: he/him/his 
 
 ### Connect with me
-[<img align="left" alt="antaresprogramming.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Antares Programming | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Francis Rubio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Francis Rubio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maniczirconium)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/teacherbuknoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francis-rubio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/teacherbuknoyofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/teacherbuknoyofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/teacherbuknoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/5511940)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCO1MsyeMTHRPk3KoHgW8csw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/flr1999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://maniczirconium.github.io/)  
+
 
 <br><br>
 
@@ -43,6 +36,18 @@ Here are some ideas to get you started:
 [![Francis' github stats](https://github-readme-stats.vercel.app/api?username=maniczirconium&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maniczirconium)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=maniczirconium)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniczirconium)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/maniczirconium)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=maniczirconium)  
+
+![Profile views](https://gpvc.arturio.dev/maniczirconium)  
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
