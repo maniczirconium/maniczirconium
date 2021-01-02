@@ -51,7 +51,7 @@ I am a Web designer and developer, writer, and educator.
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ang Antares Programming sa 2021](https://antaresprogramming.github.io/blog/antares-programming-2021/)
+- [Ang Antares Program&shy;ming sa 2021](https://antaresprogramming.github.io/blog/antares-programming-2021/)
 - [Single by choice](https://maniczirconium.github.io/blog/single-by-choice/)
 - [Custom scrollbars gamit ang CSS](https://antaresprogramming.github.io/blog/css-custom-scrollbars/)
 - [Income versus Outcome](https://maniczirconium.github.io/blog/income-versus-outcome/)
