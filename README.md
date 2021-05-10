@@ -51,11 +51,11 @@ I am a Web designer and developer, writer, and educator.
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Huling Awit Para Kay Ginoong M sa Planetang Lupa](https://maniczirconium.github.io/blog/huling-awit-kay-ginoong-m-sa-planetang-lupa/)
+- [I am coming out](https://maniczirconium.github.io/blog/coming-out/)
 - [Ang Box Sizing ng CSS](https://antaresprogramming.github.io/blog/box-sizing/)
 - [Accessible Writing](https://antaresprogramming.github.io/blog/accessible-writing/)
 - [CSS Layout: Flow Layout](https://antaresprogramming.github.io/blog/css-layout-1/)
-- [I am no survivor](https://maniczirconium.github.io/blog/no-survivor/)
-- [Ang Antares Program&shy;ming sa 2021](https://antaresprogramming.github.io/blog/antares-programming-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 
