@@ -53,9 +53,9 @@ I am a Web designer and developer, writer, and educator.
 <!-- BLOG-POST-LIST:START -->
 - [Mga CSS Selector](https://antaresprogramming.github.io/blog/css-selectors/)
 - [Ang Cascade, Inheritance, at Specificity](https://antaresprogramming.github.io/blog/cascade-inheritance-specificity/)
+- [May Bagong Trabaho si Mr. Go](https://maniczirconium.github.io/blog/may-bagong-trabaho-si-mr-go/)
 - [Huling Awit Para Kay Ginoong M sa Planetang Lupa](https://maniczirconium.github.io/blog/huling-awit-kay-ginoong-m-sa-planetang-lupa/)
 - [I am coming out](https://maniczirconium.github.io/blog/coming-out/)
-- [Ang Box Sizing ng CSS](https://antaresprogramming.github.io/blog/box-sizing/)
 <!-- BLOG-POST-LIST:END -->
 
 
