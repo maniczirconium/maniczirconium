@@ -51,11 +51,11 @@ I am a Web designer and developer, writer, and educator.
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [&lt;address>: Ang Contact Address Element](https://antaresprogramming.github.io/blog/address-element/)
 - [Is Homosexuality Wrong?](https://maniczirconium.github.io/blog/is-homosexuality-wrong/)
 - [Antares Programming: My Best Project Yet](https://maniczirconium.github.io/blog/on-antares-programming/)
 - [Arsenokoitai: Ang LGBTQ+ community sa perspective ng Bibliya](https://maniczirconium.github.io/blog/christian-homophobia/)
 - [Mga CSS Selector](https://antaresprogramming.github.io/blog/css-selectors/)
-- [Ang Cascade, Inheritance, at Specificity](https://antaresprogramming.github.io/blog/cascade-inheritance-specificity/)
 <!-- BLOG-POST-LIST:END -->
 
 
