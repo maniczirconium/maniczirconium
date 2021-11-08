@@ -51,7 +51,7 @@ I am a Web designer and developer, writer, and educator.
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [&lt;address>: Ang Contact Address Element](https://antaresprogramming.github.io/blog/address-element/)
+- [&amp;lt;address&gt;: Ang Contact Address Element](https://antaresprogramming.github.io/blog/address-element/)
 - [Mga CSS Selector](https://antaresprogramming.github.io/blog/css-selectors/)
 - [Ang Cascade, Inheritance, at Specificity](https://antaresprogramming.github.io/blog/cascade-inheritance-specificity/)
 - [Ang Box Sizing ng CSS](https://antaresprogramming.github.io/blog/box-sizing/)
